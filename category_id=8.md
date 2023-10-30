@@ -33,44 +33,44 @@
 <div><span>不定期：</span><span><a href="/display.aspx?qikan_type_id=11185">《慧闻图说》</a></span>｜<span><a href="/display.aspx?qikan_type_id=11131">《绝处逢生连环画》</a></span>｜<span> <a href="/display.aspx?category_id=6&meijie_id=3&keyword=other">更多</a> </span></div>
 <hr />
 <a href="/qikan.aspx?id=210645" >明慧周报：安徽版（第六七二期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：安徽版（第六七二期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_anhui_672_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：安徽版（第六七二期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_anhui_672_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210644" >明慧周报：长春版（第五四一期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：长春版（第五四一期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_changchun_541_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：长春版（第五四一期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_changchun_541_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210642" >明慧周报：广东版（第六九零期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：广东版（第六九零期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_guangdong_690_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：广东版（第六九零期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_guangdong_690_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210641" >明慧周报：河南版（第四三九期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：河南版（第四三九期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_henan_439_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：河南版（第四三九期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_henan_439_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210640" >明慧周报：湖南版（第八一六期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：湖南版（第八一六期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_hunan_816_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：湖南版（第八一六期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_hunan_816_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210637" >明慧周报：济南版（第五六六期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：济南版（第五六六期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_jinan_566_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：济南版（第五六六期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_jinan_566_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210639" >明慧周报：江苏版（第七一三期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：江苏版（第七一三期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_jiangsu_713_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：江苏版（第七一三期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_jiangsu_713_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210638" >明慧周报：江西版（第七七五期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：江西版（第七七五期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_jiangxi_775_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：江西版（第七七五期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_jiangxi_775_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210636" >明慧周报：内蒙古版（第五九零期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：内蒙古版（第五九零期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_neimenggu_590_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：内蒙古版（第五九零期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_neimenggu_590_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210635" >明慧周报：宁夏版（第三三二期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：宁夏版（第三三二期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_ningxia_332_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：宁夏版（第三三二期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_ningxia_332_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210634" >明慧周报：山东版（第六三一期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：山东版（第六三一期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_shandong_631_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：山东版（第六三一期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_shandong_631_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210633" >明慧周报：山西版（第四一三期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：山西版（第四一三期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_shanxi_413_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：山西版（第四一三期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_shanxi_413_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210632" >明慧周报：石家庄版（第六六四期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：石家庄版（第六六四期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_shijiazhuang_664_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：石家庄版（第六六四期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_shijiazhuang_664_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210631" >明慧周报：太原版（第一零五期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：太原版（第一零五期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_taiyuan_105_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：太原版（第一零五期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_taiyuan_105_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210630" >明慧周报：潍坊版（第六五六期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：潍坊版（第六五六期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_weifang_656_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：潍坊版（第六五六期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_weifang_656_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210628" >明慧周报：烟台版（第二三零期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：烟台版（第二三零期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_yantai_230_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：烟台版（第二三零期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_yantai_230_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210629" >明慧周报：延边版（第二七零期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：延边版（第二七零期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_yanbian_270_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：延边版（第二七零期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_yanbian_270_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210643" >明慧周报：重庆版（第六零一期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：重庆版（第六零一期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_chongqing_601_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月29日) 明慧周报：重庆版（第六零一期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/28/mhzb_chongqing_601_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210606" >明慧周报：保定版（第七二九期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月28日) 明慧周报：保定版（第七二九期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/27/mhzb_baoding_729_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月28日) 明慧周报：保定版（第七二九期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/27/mhzb_baoding_729_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210607" >明慧周报：北京版（第六二四期）  </a><br>
-<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月28日) 明慧周报：北京版（第六二四期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/27/mhzb_beijing_624_pdf-cover.png" /></a><br>
+<a href="/qikan.aspx?id=210645" ><img width="304" height="432" alt="(2023年10月28日) 明慧周报：北京版（第六二四期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/27/mhzb_beijing_624_pdf-ss.png" /></a><br>
 
 </div>
