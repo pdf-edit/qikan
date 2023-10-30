@@ -8,7 +8,7 @@
 <a name="7" id="7" target="_blank"></a> <span id="7"></span>
 <a id="user-content-1" href="#1">
 <div align="center">
-<a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/www.jpg"></a><br>
+<a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://github.com/pdf-edit/qikan/blob/main/mhqk.png?raw=true"></a><br>
 
 <a href="/display.aspx?category_id=8">最新出版</a>
 <a href="/category.aspx?category=mainland">大陆杂志</a>
