@@ -20,7 +20,7 @@
 
 
 <hr />
-<div><span>周刊：</span><span><a href="/display.aspx?qikan_type_id=5179">《明慧周刊》</a></span>｜<span>《明慧周报》</span>：<span><a href="/display.aspx?qikan_type_id=5178">中国版</a> </span>｜<span><a href="mainland.aspx">大陆地方版　　　</a> </span>
+<div><span>周刊：</span><span><a href="/display.aspx?qikan_type_id=5179">《明慧周刊》</a></span>｜<span>《明慧周报》</span>：<span><a href="/display.aspx?qikan_type_id=5178">中国版</a></span>｜<span><a href="mainland.aspx">大陆地方版　　　</a> </span>
 <div><span>月刊：</span><span><a href="/display.aspx?qikan_type_id=5240">《真相》</a></span>｜<span><a href="/display.aspx?qikan_type_id=11182">《祝你平安》</a></span>｜<span><a href="/display.aspx?qikan_type_id=5360&keyword=单张&contain=true">《天赐洪福》单张　　　　　　</a></span></div>
 <div><span>双月刊：</span><span><a href="/display.aspx?qikan_type_id=7500">《金种子》</a></span>｜<span><a href="/display.aspx?qikan_type_id=5638">《慧声》</a></span>｜<span><a href="/display.aspx?qikan_type_id=7268">《七彩桥》</a></span>｜<span><a href="/display.aspx?qikan_type_id=5360&keyword=单张&contain=false">《天赐洪福》杂志</a> </span></div>
 <div><span>季刊：</span><span><a href="/display.aspx?qikan_type_id=5139">《天地苍生》</a></span>｜<span><a href="/display.aspx?qikan_type_id=5140">《明白》　　　　　　　　　　　　　　　</a></span></div>
