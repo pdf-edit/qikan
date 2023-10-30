@@ -9,7 +9,7 @@
 <li><a href="/UpdatedArticles.aspx">更新期刊</a></li>
 
 <hr />
-<div><span><img class="menuicon" src="https://qikan.minghui.org/html/images/d7icon.png" />周刊：</span><span><a href="/display.aspx?qikan_type_id=5179">《明慧周刊》</a></span>‖<span>《明慧周报》</span>：<span><a href="/display.aspx?qikan_type_id=5178">中国版<b>(A4)</b></a> </span>
+<div><span>周刊：</span><span><a href="/display.aspx?qikan_type_id=5179">《明慧周刊》</a></span>‖<span>《明慧周报》</span>：<span><a href="/display.aspx?qikan_type_id=5178">中国版<b>(A4)</b></a> </span>
 ｜<span><a href="mainland.aspx"> 大陆地方版<b>(A4)</b></a> </span>
 ｜<span> <a href="/display.aspx?qikan_type_id=5151">国际版</a></span></div>
 <div><span>月刊：</span><span><a href="/display.aspx?qikan_type_id=5240">《真相》</a></span>｜<span><a href="/display.aspx?qikan_type_id=11182">《祝你平安》</a></span>｜<span><a href="/display.aspx?qikan_type_id=5360&keyword=单张&contain=true">《天赐洪福》<b>A4</b>单张</a></span></div>
