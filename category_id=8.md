@@ -17,18 +17,15 @@
 <a href="/category.aspx?category=zhuanti">专题特刊</a>
 <a href="/display.aspx?category_id=6&meijie_id=2">电子图书</a>
 <a href="/display.aspx?qikan_type_id=11075">手机图片</a>
-<a href="/display.aspx?category_id=5&zhouqi_id=6">旧刊寻踪</a>
-<a href="/UpdatedArticles.aspx">更新期刊</a>
+
 
 <hr />
-<div><span>周刊：</span><span><a href="/display.aspx?qikan_type_id=5179">《明慧周刊》</a></span>‖<span>《明慧周报》</span>：<span><a href="/display.aspx?qikan_type_id=5178">中国版<b>(A4)</b></a> </span>
-｜<span><a href="mainland.aspx"> 大陆地方版<b>(A4)</b></a> </span>
-｜<span> <a href="/display.aspx?qikan_type_id=5151">国际版</a></span></div>
-<div><span>月刊：</span><span><a href="/display.aspx?qikan_type_id=5240">《真相》</a></span>｜<span><a href="/display.aspx?qikan_type_id=11182">《祝你平安》</a></span>｜<span><a href="/display.aspx?qikan_type_id=5360&keyword=单张&contain=true">《天赐洪福》<b>A4</b>单张</a></span></div>
-<div><span>双月刊：</span><span><a href="/display.aspx?qikan_type_id=7500">《金种子》</a></span>｜<span><a href="/display.aspx?qikan_type_id=5638">《慧声》</a></span>｜<span><a href="/display.aspx?qikan_type_id=7268">《七彩桥》</a></span>｜<span><a href="/display.aspx?qikan_type_id=5360&keyword=单张&contain=false">《天赐洪福》<b>A5</b>杂志</a> </span></div>
+<div><span>周刊：</span><span><a href="/display.aspx?qikan_type_id=5179">《明慧周刊》</a></span>‖<span>《明慧周报》</span>：<span><a href="/display.aspx?qikan_type_id=5178">中国版</a> </span>
+｜<span><a href="mainland.aspx"> 大陆地方版</a> </span>
+<div><span>月刊：</span><span><a href="/display.aspx?qikan_type_id=5240">《真相》</a></span>｜<span><a href="/display.aspx?qikan_type_id=11182">《祝你平安》</a></span>｜<span><a href="/display.aspx?qikan_type_id=5360&keyword=单张&contain=true">《天赐洪福》单张</a></span></div>
+<div><span>双月刊：</span><span><a href="/display.aspx?qikan_type_id=7500">《金种子》</a></span>｜<span><a href="/display.aspx?qikan_type_id=5638">《慧声》</a></span>｜<span><a href="/display.aspx?qikan_type_id=7268">《七彩桥》</a></span>｜<span><a href="/display.aspx?qikan_type_id=5360&keyword=单张&contain=false">《天赐洪福》杂志</a> </span></div>
 <div><span>季刊：</span><span><a href="/display.aspx?qikan_type_id=5139">《天地苍生》</a></span>｜<span><a href="/display.aspx?qikan_type_id=5140">《明白》</a></span></div>
-<div><span>年刊：</span><span><a href="/display.aspx?qikan_type_id=10922">《明慧国际》</a></span>：<span><a href="/display.aspx?qikan_type_id=10922">各种语言</a> </span>
-‖<span><a href="/display.aspx?category_id=6&meijie_id=3">《明慧挂/台历》</a> </span>：<span><a href="/display.aspx?category_id=6&meijie_id=3&keyword=吉祥娃娃">吉祥娃娃</a> </span>
+<div><span>年刊：</span><span><a href="/display.aspx?category_id=6&meijie_id=3">《明慧挂/台历》</a> </span>：<span><a href="/display.aspx?category_id=6&meijie_id=3&keyword=吉祥娃娃">吉祥娃娃</a> </span>
 ｜<span> <a href="/display.aspx?category_id=6&meijie_id=3&keyword=送福宝宝">送福宝宝</a> </span></div>
 <div><span>不定期：</span><span><a href="/display.aspx?qikan_type_id=11185">《慧闻图说》</a></span>｜<span><a href="/display.aspx?qikan_type_id=11131">《绝处逢生连环画》</a></span>｜<span> <a href="/display.aspx?category_id=6&meijie_id=3&keyword=other">更多</a> </span></div>
 <hr />
