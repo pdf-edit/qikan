@@ -1,29 +1,24 @@
 <a id="user-content-1" class="anchor" aria-hidden="true" href="#1">
-<a name="1" id="1" target="_blank"></a> <span id="1"></span>
-<a name="2" id="2" target="_blank"></a> <span id="2"></span>
-<a name="3" id="3" target="_blank"></a> <span id="3"></span>
-<a name="4" id="4" target="_blank"></a> <span id="4"></span>
-<a name="5" id="5" target="_blank"></a> <span id="5"></span>
-<a name="6" id="6" target="_blank"></a> <span id="6"></span>
-<a name="7" id="7" target="_blank"></a> <span id="7"></span>
+<a name="1" id="1" target="_blank"></a> <span id="1">
+<a name="2" id="2" target="_blank"></a> <span id="2">
+<a name="3" id="3" target="_blank"></a> <span id="3">
+<a name="4" id="4" target="_blank"></a> <span id="4">
+<a name="5" id="5" target="_blank"></a> <span id="5">
+<a name="6" id="6" target="_blank"></a> <span id="6">
+<a name="7" id="7" target="_blank"></a> <span id="7">
 <a id="user-content-1" href="#1">
 <div align="center">
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://github.com/pdf-edit/qikan/blob/main/mhqk.png?raw=true"></a><br>
 
-<a href="/display.aspx?category_id=8">最新出版｜</a>
-<a href="/category.aspx?category=mainland">大陆杂志｜</a>
-<a href="/category.aspx?category=overseas">海外杂志｜</a>
-<a href="/display.aspx?category_id=4&guige_id=3">普通单张｜</a>
-<a href="/category.aspx?category=zhuanti">专题特刊｜</a>
-<a href="/display.aspx?category_id=6&meijie_id=2">电子图书｜</a>
-<a href="/display.aspx?qikan_type_id=11075">手机图片</a>
+
+<a href="/display.aspx?category_id=8">最新出版</a>｜<a href="/category.aspx?category=mainland">大陆杂志</a>｜<a href="/category.aspx?category=overseas">海外杂志</a>｜<a href="/display.aspx?category_id=4&guige_id=3">普通单张</a>｜<a href="/category.aspx?category=zhuanti">专题特刊</a>｜<a href="/display.aspx?category_id=6&meijie_id=2">电子图书</a>｜<a href="/display.aspx?qikan_type_id=11075">手机图片</a>
 <hr />
-<div><span>周刊：</span><span><a href="/display.aspx?qikan_type_id=5179">《明慧周刊》</a></span>｜<span>《明慧周报》</span>：<span><a href="/display.aspx?qikan_type_id=5178">中国版</a></span>｜<span><a href="mainland.aspx">大陆地方版　</a> </span>
-<div><span>月刊：</span><span><a href="/display.aspx?qikan_type_id=5240">《真相》</a></span>｜<span><a href="/display.aspx?qikan_type_id=11182">《祝你平安》</a></span>｜<span><a href="/display.aspx?qikan_type_id=5360&keyword=单张&contain=true">《天赐洪福》单张　　　　</a></span></div>
-<div><span>双月刊：</span><span><a href="/display.aspx?qikan_type_id=7500">《金种子》</a></span>｜<span><a href="/display.aspx?qikan_type_id=5638">《慧声》</a></span>｜<span><a href="/display.aspx?qikan_type_id=7268">《七彩桥》</a></span>｜<span><a href="/display.aspx?qikan_type_id=5360&keyword=单张&contain=false">《天赐洪福》</a> </span></div>
-<div><span>季刊：</span><span><a href="/display.aspx?qikan_type_id=5139">《天地苍生》</a></span>｜<span><a href="/display.aspx?qikan_type_id=5140">《明白》　　　　　　　　　　　　　</a></span></div>
-<div><span>年刊：</span><span><a href="/display.aspx?category_id=6&meijie_id=3">《明慧挂／台历》</a></span>：<span><a href="/display.aspx?category_id=6&meijie_id=3&keyword=吉祥娃娃">吉祥娃娃</a></span>｜<span><a href="/display.aspx?category_id=6&meijie_id=3&keyword=送福宝宝">送福宝宝　　　　　　</a> </span></div>
-<div><span>不定期：</span><span><a href="/display.aspx?qikan_type_id=11185">《慧闻图说》</a></span>｜<span><a href="/display.aspx?qikan_type_id=11131">《绝处逢生连环画》</a></span>｜<span> <a href="/display.aspx?category_id=6&meijie_id=3&keyword=other">更多　　　　</a> </span></div>
+周刊：<a href="/display.aspx?qikan_type_id=5179">《明慧周刊》</a>｜《明慧周报》：<a href="/display.aspx?qikan_type_id=5178">中国版</a>｜<a href="mainland.aspx">大陆地方版　</a> 
+月刊：<a href="/display.aspx?qikan_type_id=5240">《真相》</a>｜<a href="/display.aspx?qikan_type_id=11182">《祝你平安》</a>｜<a href="/display.aspx?qikan_type_id=5360&keyword=单张&contain=true">《天赐洪福》单张　　　　</a>
+双月刊：<a href="/display.aspx?qikan_type_id=7500">《金种子》</a>｜<a href="/display.aspx?qikan_type_id=5638">《慧声》</a>｜<a href="/display.aspx?qikan_type_id=7268">《七彩桥》</a>｜<a href="/display.aspx?qikan_type_id=5360&keyword=单张&contain=false">《天赐洪福》</a> 
+季刊：<a href="/display.aspx?qikan_type_id=5139">《天地苍生》</a>｜<a href="/display.aspx?qikan_type_id=5140">《明白》　　　　　　　　　　　　　</a>
+年刊：<a href="/display.aspx?category_id=6&meijie_id=3">《明慧挂／台历》</a>：<a href="/display.aspx?category_id=6&meijie_id=3&keyword=吉祥娃娃">吉祥娃娃</a>｜<a href="/display.aspx?category_id=6&meijie_id=3&keyword=送福宝宝">送福宝宝　　　　　　</a> 
+不定期：<a href="/display.aspx?qikan_type_id=11185">《慧闻图说》</a>｜<a href="/display.aspx?qikan_type_id=11131">《绝处逢生连环画》</a>｜ <a href="/display.aspx?category_id=6&meijie_id=3&keyword=other">更多　　　　</a> 
 <hr />
 
 <h1><strong>最新出版</strong></h1>
@@ -67,5 +62,4 @@
 <a href="/qikan.aspx?id=210645" ><img width="221" height="286" alt="(2023年10月28日) 明慧周报：保定版（第七二九期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/27/mhzb_baoding_729_pdf-ss.png" /></a><br>
 <a href="/qikan.aspx?id=210607" >明慧周报：北京版（第六二四期）  </a><br>
 <a href="/qikan.aspx?id=210645" ><img width="221" height="286" alt="(2023年10月28日) 明慧周报：北京版（第六二四期） " src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/27/mhzb_beijing_624_pdf-ss.png" /></a><br>
-
 </div>
