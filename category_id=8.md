@@ -12,14 +12,16 @@
 
 
 <a href="/display.aspx?category_id=8">最新出版</a>｜<a href="/category.aspx?category=mainland">大陆杂志</a>｜<a href="/category.aspx?category=overseas">海外杂志</a>｜<a href="/display.aspx?category_id=4&guige_id=3">普通单张</a>｜<a href="/category.aspx?category=zhuanti">专题特刊</a>｜<a href="/display.aspx?category_id=6&meijie_id=2">电子图书</a>｜<a href="/display.aspx?qikan_type_id=11075">手机图片</a>
-<hr />
+<a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
+
 周刊：<a href="/display.aspx?qikan_type_id=5179">《明慧周刊》</a>｜《明慧周报》：<a href="/display.aspx?qikan_type_id=5178">中国版</a>｜<a href="mainland.aspx">大陆地方版　</a> <br>
 月刊：<a href="/display.aspx?qikan_type_id=5240">《真相》</a>｜<a href="/display.aspx?qikan_type_id=11182">《祝你平安》</a>｜<a href="/display.aspx?qikan_type_id=5360&keyword=单张&contain=true">《天赐洪福》单张　　　　</a><br>
 双月刊：<a href="/display.aspx?qikan_type_id=7500">《金种子》</a>｜<a href="/display.aspx?qikan_type_id=5638">《慧声》</a>｜<a href="/display.aspx?qikan_type_id=7268">《七彩桥》</a>｜<a href="/display.aspx?qikan_type_id=5360&keyword=单张&contain=false">《天赐洪福》</a> <br>
 季刊：<a href="/display.aspx?qikan_type_id=5139">《天地苍生》</a>｜<a href="/display.aspx?qikan_type_id=5140">《明白》　　　　　　　　　　　　　</a><br>
 年刊：<a href="/display.aspx?category_id=6&meijie_id=3">《明慧挂／台历》</a>：<a href="/display.aspx?category_id=6&meijie_id=3&keyword=吉祥娃娃">吉祥娃娃</a>｜<a href="/display.aspx?category_id=6&meijie_id=3&keyword=送福宝宝">送福宝宝　　　　　　</a><br> 
 不定期：<a href="/display.aspx?qikan_type_id=11185">《慧闻图说》</a>｜<a href="/display.aspx?qikan_type_id=11131">《绝处逢生连环画》</a>｜ <a href="/display.aspx?category_id=6&meijie_id=3&keyword=other">更多　　　　</a> <br>
-<hr />
+<a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
+
 
 <h1><strong>最新出版</strong></h1>
 <a href="/qikan.aspx?id=210645" >明慧周报：安徽版（第六七二期）  </a><br>
