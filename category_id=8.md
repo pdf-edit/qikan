@@ -12,7 +12,7 @@
 
 
 <a href="/display.aspx?category_id=8">最新出版</a>｜<a href="/category.aspx?category=mainland">大陆杂志</a>｜<a href="/category.aspx?category=overseas">海外杂志</a>｜<a href="/display.aspx?category_id=4&guige_id=3">普通单张</a>｜<a href="/category.aspx?category=zhuanti">专题特刊</a>｜<a href="/display.aspx?category_id=6&meijie_id=2">电子图书</a>｜<a href="/display.aspx?qikan_type_id=11075">手机图片</a>
-<a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
+
 
 周刊：<a href="/display.aspx?qikan_type_id=5179">《明慧周刊》</a>｜《明慧周报》：<a href="/display.aspx?qikan_type_id=5178">中国版</a>｜<a href="mainland.aspx">大陆地方版　</a> <br>
 月刊：<a href="/display.aspx?qikan_type_id=5240">《真相》</a>｜<a href="/display.aspx?qikan_type_id=11182">《祝你平安》</a>｜<a href="/display.aspx?qikan_type_id=5360&keyword=单张&contain=true">《天赐洪福》单张　　　　</a><br>
