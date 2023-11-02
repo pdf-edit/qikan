@@ -20,6 +20,7 @@
 不定期：<a href="/display.aspx?qikan_type_id=11185">《慧闻图说》</a>｜<a href="/display.aspx?qikan_type_id=11131">《绝处逢生连环画》</a>｜ <a href="/display.aspx?category_id=6&meijie_id=3&keyword=other">更多　　　　</a> <br>
 <br>
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
+<h1><strong>最新出版</strong></h1>
 <a href="210646">明慧周报：海外版（第七七八期） </a><br><table ><tr><td VALIGN=TOP width="221" height="286"><a href="210646" ><img width=221 height=286 src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/30/mhzb_778_2c-ss.png"></a></td></tr></table><br>
 <a href="210653">2024年福字（11款）</a><br><table ><tr><td VALIGN=TOP width="221" height="286"><a href="210653" ><img width=221 height=286 src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/30/fuzi2023-read-ss.png"></a></td></tr></table><br>
 <a href="210652">明慧周报：成都版（第七五七期） </a><br><table ><tr><td VALIGN=TOP width="221" height="286"><a href="210652" ><img width=221 height=286 src="https://qikan.minghui.org/mhqkpage/qikanimage/2023/10/29/mhzb_chengdu_757_pdf-ss.png"></a></td></tr></table><br>
