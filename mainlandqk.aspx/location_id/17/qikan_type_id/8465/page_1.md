@@ -22,4 +22,44 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=17/page_1.md#1">>河南省</a></strong></h2></p>
 <p align="center"><strong>明慧周报：商丘版</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/202144.pdf">明慧周报：商丘版（第四六期）       03/27/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/202045.pdf">明慧周报：商丘版（第四五期）       03/20/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/199133.pdf">明慧周报：商丘版（第四四期）       08/29/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/194515.pdf">明慧周报：商丘版（第四三期）       09/21/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/194361.pdf">明慧周报：商丘版（第四二期）       09/08/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/192980.pdf">明慧周报：商丘版（第四一期）       05/28/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/189865.pdf">明慧周报：商丘版（第四零期）       09/20/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/189400.pdf">明慧周报：商丘版（第三九期）       08/18/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/189139.pdf">明慧周报：商丘版  （第三八期）       07/28/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/186516.pdf">明慧周报：商丘版（第三七期）       01/06/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/186329.pdf">明慧周报：商丘版（第三六期）       12/24/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/184286.pdf">明慧周报：商丘版（第三五期）       08/14/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/164799.pdf">明慧周报：商丘版（第34期）      03/09/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/163140.pdf">明慧周报：商丘版（第33期）      11/21/2013</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/162095.pdf">明慧周报：商丘版（第32期）      09/14/2013</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/126572.pdf">明慧周报：商丘版（第三一期）       08/30/2010</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/128392.pdf">明慧周报：商丘版（第三零期）       05/20/2010</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/131080.pdf">明慧周报：商丘版（第二九期）       01/11/2010</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/132573.pdf">明慧周报：商丘版（第二八期）       11/15/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/133464.pdf">明慧周报：商丘版（第二七期）       10/15/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/134727.pdf">明慧周报：商丘版（第二六期）       08/25/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/135015.pdf">明慧周报：商丘版（第二五期）       08/16/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/135258.pdf">明慧周报：商丘版（第二四期）       08/06/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/136673.pdf">明慧周报：商丘版（第二三期）       06/13/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/137963.pdf">明慧周报：商丘版（第二二期）       04/24/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/138713.pdf">明慧周报  商丘版（第二一期）       03/26/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/139054.pdf">明慧周报：商丘版（第二零期）       03/12/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/139261.pdf">明慧周报：商丘版（第一九期）       03/03/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/139435.pdf">明慧周报　商丘版（第一八期）       02/23/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/140145.pdf">明慧周报　商丘版（第一六期）       01/16/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/140706.pdf">明慧周报　商丘版（第一五期）       12/20/2008</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/140969.pdf">明慧周报　商丘版（第一四期）       12/06/2008</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/141482.pdf">明慧周报　商丘版（第一三期）       11/09/2008</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/141628.pdf">明慧周报　商丘版（第一二期）       11/02/2008</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/141801.pdf">明慧周报  商丘版（第一一期）       10/23/2008</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/142008.pdf">明慧周报　商丘版（第一零期）       10/10/2008</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/142299.pdf">明慧周报  商丘版（第九期）       09/24/2008</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/142548.pdf">明慧周报　商丘版（第八期）       09/11/2008</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/142724.pdf">明慧周报　商丘版（第七期）       09/02/2008</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/142907.pdf">明慧周报　商丘版（第六期）       08/25/2008</a></strong></p>
 
