@@ -22,4 +22,14 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=31/page_1.md#1">>宁夏回族自治区</a></strong></h2></p>
 <p align="center"><strong>明慧周报：吴忠版</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/193906.pdf">明慧周报：吴忠版（第一零期）       08/06/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/192604.pdf">明慧周报：吴忠版（第九期）      04/30/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/192257.pdf">明慧周报：吴忠版（第八期）      04/01/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/192024.pdf">明慧周报：吴忠版（第七期）      03/13/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/191037.pdf">明慧周报：吴忠版（第六期）      12/17/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/190957.pdf">明慧周报：吴忠版（第五期）      12/10/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/190320.pdf">明慧周报：吴忠版  （第四期）       10/24/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/189659.pdf">明慧周报：吴忠版（第三期）      09/04/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/187558.pdf">明慧周报：吴忠版（第二期）      03/28/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/181157.pdf">明慧周报：吴忠版（第一期）       01/28/2017</a></strong></p>
 
