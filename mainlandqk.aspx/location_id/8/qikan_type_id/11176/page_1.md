@@ -22,4 +22,12 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=8/page_1.md#1">>吉林省</a></strong></h2></p>
 <p align="center"><strong>疫情周报（朝鲜文）</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/201797.pdf">疫情周报（朝鲜文）（第二一期）       03/01/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/201633.pdf">疫情周报（朝鲜文）（第二零期）       02/18/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/201404.pdf">疫情周报（朝鲜文）（第一六期）       02/02/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/201203.pdf">疫情周报（朝鲜文版）（第一五期）       01/20/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/200984.pdf">疫情周报（朝鲜文）（第一二期）       01/07/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/198459.pdf">疫情周报（朝鲜文）（第一一期）       07/22/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/198051.pdf">真相传单：疫情周报（朝鲜文版）（第10期）      06/21/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/197889.pdf">疫情周报（朝鲜文版）（第7期）      06/07/2020</a></strong></p>
 
