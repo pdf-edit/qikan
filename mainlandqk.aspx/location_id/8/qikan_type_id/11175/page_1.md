@@ -22,4 +22,13 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=8/page_1.md#1">>吉林省</a></strong></h2></p>
 <p align="center"><strong>真相期刊：疫情周刊（朝鲜文版）</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/197732.pdf">真相传单：疫情周报（朝鲜文版）（第六期）       05/25/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/197569.pdf">真相传单：疫情周报（朝鲜文版）（第五期）       05/15/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/197382.pdf">真相传单：疫情周报（第三期） （朝鲜文版）      05/01/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/197252.pdf">真相期刊：疫情周刊（第8期，朝鲜文）      04/19/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/197119.pdf">真相传单：疫情周刊（朝鲜文版）（第七期）       04/09/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/197032.pdf">真相传单：疫情周刊（朝鲜文版）（第六期）       04/02/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/196874.pdf">疫情周刊：第5期（朝鲜文）       03/19/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/196774.pdf">真相传单：疫情周刊（第三期 朝鲜文版）      03/10/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/196600.pdf">明慧期刊：疫情周刊（朝鲜文）（2020年2月25日更新）      02/25/2020</a></strong></p>
 
