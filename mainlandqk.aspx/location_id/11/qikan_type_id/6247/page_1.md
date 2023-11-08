@@ -22,4 +22,44 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=11/page_1.md#1">>江苏省</a></strong></h2></p>
 <p align="center"><strong>明慧周报：南京版</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210559.pdf">明慧周报：南京版（第二三三期）       10/21/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210191.pdf">明慧周报：南京版（第二三二期）       09/09/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210067.pdf">明慧周报：南京版（第二三一期）       08/26/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209915.pdf">明慧周报：南京版（第二三零期）       08/12/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209324.pdf">明慧周报：南京版（第二二九期）       06/10/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209013.pdf">明慧周报：南京版（第二二八期）       05/06/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208979.pdf">明慧周报：南京版（第二二七期）       04/30/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208906.pdf">明慧周报：南京版（第二二六期）       04/23/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208727.pdf">明慧周报：南京版（第二二五期）       04/08/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208685.pdf">明慧周报：南京版（第二二四期）       04/02/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208555.pdf">明慧周报：南京版（第二二三期）       03/20/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208467.pdf">明慧周报：南京版（第二二二期）       03/12/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208409.pdf">明慧周报：南京版（第二二一期）       03/05/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206338.pdf">明慧周报：南京版（第二二零期）       07/10/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/205826.pdf">明慧周报：南京版（第二一九期）       05/02/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/205569.pdf">明慧周报：南京版（第二一八期）       03/27/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/205261.pdf">明慧周报：南京版（第二一七期）       02/19/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/205016.pdf">明慧周报：南京版（第二一六期）       01/15/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/204890.pdf">明慧周报：南京版（第二一五期）       12/26/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/204743.pdf">明慧周报：南京版（第二一四期）       12/11/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/204703.pdf">明慧周报：南京版（第二一三期）       12/05/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/203878.pdf">明慧周报：南京版（第二一二期）       08/21/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/203649.pdf">明慧周报：南京版（第二一一期）       07/12/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/203583.pdf">明慧周报：南京版（第二一零期）       07/05/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/202150.pdf">明慧周报：南京版（第二零九期）       03/27/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/201022.pdf">明慧周报：南京版（第二零八期）       01/09/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/200908.pdf">明慧周报：南京版（第二零七期）       01/02/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/200605.pdf">明慧周报：南京版（第二零六期）       12/12/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/199638.pdf">明慧周报：南京版（第二零五期）       10/04/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/199568.pdf">明慧周报：南京版（第二零四期）       09/28/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/199334.pdf">明慧周报：南京版（第二零三期）       09/12/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/198945.pdf">明慧周报：南京版（第二零二期）       08/20/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/198761.pdf">明慧周报：南京版（第二零一期）       08/08/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/198712.pdf">明慧周报：南京版（第二零零期）       08/04/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/198107.pdf">明慧周报：南京版（第一九九期）       06/27/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/198066.pdf">明慧周报：南京版（第一九八期）       06/22/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/197150.pdf">明慧周报：南京版（第一九七期）       04/11/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/196374.pdf">明慧周报：南京版（第一九六期）       02/09/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/196157.pdf">明慧周报：南京版（第一九五期）       01/26/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/196061.pdf">明慧周报：南京版（第一九四期）       01/18/2020</a></strong></p>
 
