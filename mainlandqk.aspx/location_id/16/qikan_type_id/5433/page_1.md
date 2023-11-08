@@ -22,4 +22,44 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=16/page_1.md#1">>山东省</a></strong></h2></p>
 <p align="center"><strong>明慧周报：临沂版</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210725.pdf">明慧周报：临沂版（第四七三期）       11/06/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210600.pdf">明慧周报：临沂版（第四七二期）       10/23/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210423.pdf">明慧周报：临沂版（第四七一期）       10/02/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210305.pdf">明慧周报：临沂版（第四七零期）       09/18/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210174.pdf">明慧周报：临沂版（第四六九期）       09/04/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210048.pdf">明慧周报：临沂版（第四六八期）       08/21/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209896.pdf">明慧周报：临沂版（第四六七期）       08/07/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209819.pdf">明慧周报：临沂版（第四六六期）       07/31/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209597.pdf">明慧周报：临沂版（第四六五期）       07/09/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209487.pdf">明慧周报：临沂版（第四六四期）       06/26/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209229.pdf">明慧周报：临沂版（第四六三期）（2023年5月30日更新）      05/29/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209123.pdf">明慧周报：临沂版（第四六二期）       05/15/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208988.pdf">明慧周报：临沂版（第四六一期）       05/01/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208771.pdf">明慧周报：临沂版（第四六零期）       04/10/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208632.pdf">明慧周报：临沂版（第四五九期）       03/27/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208424.pdf">明慧周报：临沂版（第四五八期）       03/06/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208354.pdf">明慧周报：临沂版（第四五七期）       02/27/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208166.pdf">明慧周报：临沂版（第四五六期）       02/06/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/207989.pdf">明慧周报：临沂版（第四五五期）       01/16/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/207877.pdf">明慧周报：临沂版（第四五四期）       01/02/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/207807.pdf">明慧周报：临沂版（第四五三期）       12/26/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/207394.pdf">明慧周报：临沂版（第四五二期）       11/14/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/207042.pdf">明慧周报：临沂版（第四五一期）       10/03/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206986.pdf">明慧周报：临沂版（第四五零期）       09/26/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206818.pdf">明慧周报：临沂版（第四四九期）       09/05/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206754.pdf">明慧周报：临沂版（第四四八期）       08/29/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206643.pdf">明慧周报：临沂版（第四四七期）       08/15/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206587.pdf">明慧周报：临沂版（第四四六期）       08/08/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206462.pdf">明慧周报：临沂版（第四四五期）       07/25/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206407.pdf">明慧周报：临沂版（第四四四期）       07/18/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206353.pdf">明慧周报：临沂版（第四四三期）       07/11/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206294.pdf">明慧周报：临沂版（第四四二期）       07/04/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206241.pdf">明慧周报：临沂版（第四四一期）       06/27/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206192.pdf">明慧周报：临沂版（第四四零期）       06/20/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206138.pdf">明慧周报：临沂版（第四三九期）       06/13/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206078.pdf">明慧周报：临沂版（第四三八期）       06/06/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/205743.pdf">明慧周报：临沂版（第四三七期）       04/23/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/205685.pdf">明慧周报：临沂版（第四三六期）       04/11/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/205624.pdf">明慧周报：临沂版（第四三五期）       04/03/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/205570.pdf">明慧周报：临沂版  （第四三四期）       03/27/2022</a></strong></p>
 
