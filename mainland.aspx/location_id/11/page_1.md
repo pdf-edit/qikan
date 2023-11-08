@@ -22,18 +22,18 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong>按地区寻找</strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=11/page_1.md#1">>江苏省</a></strong></h2></p>
 <p align="center"><strong></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=11&qikan_type_id=10801&page=1/page_1.md#1">明慧周报：常州版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=11&qikan_type_id=11071&page=1/page_1.md#1">明慧周报：淮安版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=11&qikan_type_id=5131&page=1/page_1.md#1">明慧周报：江苏版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=11&qikan_type_id=6609&page=1/page_1.md#1">明慧周报：连云港版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=11&qikan_type_id=6247&page=1/page_1.md#1">明慧周报：南京版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=11&qikan_type_id=10907&page=1/page_1.md#1">明慧周报：南通版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=11&qikan_type_id=10976&page=1/page_1.md#1">明慧周报：苏州版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=11&qikan_type_id=9548&page=1/page_1.md#1">明慧周报：无锡版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=11&qikan_type_id=11049&page=1/page_1.md#1">明慧周报：徐州版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=11&qikan_type_id=6789&page=1/page_1.md#1">明慧周报：盐城版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=11&qikan_type_id=10965&page=1/page_1.md#1">明慧周报：镇江版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=11&qikan_type_id=11130&page=1/page_1.md#1">真相传单：江苏特刊</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=11&qikan_type_id=5266&page=1/page_1.md#1">真相传单：江苏真相</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=11&qikan_type_id=5306&page=1/page_1.md#1">真相传单：南京真相</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/11/qikan_type_id/10801/page_1.md#1">明慧周报：常州版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/11/qikan_type_id/11071/page_1.md#1">明慧周报：淮安版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/11/qikan_type_id/5131/page_1.md#1">明慧周报：江苏版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/11/qikan_type_id/6609/page_1.md#1">明慧周报：连云港版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/11/qikan_type_id/6247/page_1.md#1">明慧周报：南京版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/11/qikan_type_id/10907/page_1.md#1">明慧周报：南通版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/11/qikan_type_id/10976/page_1.md#1">明慧周报：苏州版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/11/qikan_type_id/9548/page_1.md#1">明慧周报：无锡版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/11/qikan_type_id/11049/page_1.md#1">明慧周报：徐州版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/11/qikan_type_id/6789/page_1.md#1">明慧周报：盐城版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/11/qikan_type_id/10965/page_1.md#1">明慧周报：镇江版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/11/qikan_type_id/11130/page_1.md#1">真相传单：江苏特刊</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/11/qikan_type_id/5266/page_1.md#1">真相传单：江苏真相</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/11/qikan_type_id/5306/page_1.md#1">真相传单：南京真相</a></strong></p>
 
