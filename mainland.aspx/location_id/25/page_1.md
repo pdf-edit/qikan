@@ -22,15 +22,15 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong>按地区寻找</strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=25/page_1.md#1">>贵州省</a></strong></h2></p>
 <p align="center"><strong></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=25&qikan_type_id=11122&page=1/page_1.md#1">明慧周报：毕节版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=25&qikan_type_id=9081&page=1/page_1.md#1">明慧周报：贵阳版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=25&qikan_type_id=10838&page=1/page_1.md#1">明慧周报：贵州版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=25&qikan_type_id=11116&page=1/page_1.md#1">明慧周报：六盘水版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=25&qikan_type_id=11016&page=1/page_1.md#1">明慧周报：遵义版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=25&qikan_type_id=11027&page=1/page_1.md#1">真相传单：贵阳特刊</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=25&qikan_type_id=11024&page=1/page_1.md#1">真相传单：贵阳真相</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=25&qikan_type_id=11050&page=1/page_1.md#1">真相传单：贵州特刊</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=25&qikan_type_id=10797&page=1/page_1.md#1">真相传单：贵州真相</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=25&qikan_type_id=11118&page=1/page_1.md#1">真相传单：黔南特刊</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=25&qikan_type_id=11129&page=1/page_1.md#1">真相传单：遵义特刊</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/25/qikan_type_id/11122/page_1.md#1">明慧周报：毕节版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/25/qikan_type_id/9081/page_1.md#1">明慧周报：贵阳版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/25/qikan_type_id/10838/page_1.md#1">明慧周报：贵州版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/25/qikan_type_id/11116/page_1.md#1">明慧周报：六盘水版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/25/qikan_type_id/11016/page_1.md#1">明慧周报：遵义版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/25/qikan_type_id/11027/page_1.md#1">真相传单：贵阳特刊</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/25/qikan_type_id/11024/page_1.md#1">真相传单：贵阳真相</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/25/qikan_type_id/11050/page_1.md#1">真相传单：贵州特刊</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/25/qikan_type_id/10797/page_1.md#1">真相传单：贵州真相</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/25/qikan_type_id/11118/page_1.md#1">真相传单：黔南特刊</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/25/qikan_type_id/11129/page_1.md#1">真相传单：遵义特刊</a></strong></p>
 
