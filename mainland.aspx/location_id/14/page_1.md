@@ -22,12 +22,12 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong>按地区寻找</strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=14/page_1.md#1">>福建省</a></strong></h2></p>
 <p align="center"><strong></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=14&qikan_type_id=5141&page=1/page_1.md#1">明慧周报：福建版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=14&qikan_type_id=9186&page=1/page_1.md#1">明慧周报：福州版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=14&qikan_type_id=11148&page=1/page_1.md#1">明慧周报：泉州版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=14&qikan_type_id=6203&page=1/page_1.md#1">明慧周报：厦门版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=14&qikan_type_id=10890&page=1/page_1.md#1">明慧周报：漳州版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=14&qikan_type_id=10796&page=1/page_1.md#1">真相传单：福建真相</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=14&qikan_type_id=5602&page=1/page_1.md#1">真相传单：福州真相</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=14&qikan_type_id=10964&page=1/page_1.md#1">真相传单：厦门真相</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/14/qikan_type_id/5141/page_1.md#1">明慧周报：福建版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/14/qikan_type_id/9186/page_1.md#1">明慧周报：福州版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/14/qikan_type_id/11148/page_1.md#1">明慧周报：泉州版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/14/qikan_type_id/6203/page_1.md#1">明慧周报：厦门版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/14/qikan_type_id/10890/page_1.md#1">明慧周报：漳州版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/14/qikan_type_id/10796/page_1.md#1">真相传单：福建真相</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/14/qikan_type_id/5602/page_1.md#1">真相传单：福州真相</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/14/qikan_type_id/10964/page_1.md#1">真相传单：厦门真相</a></strong></p>
 
