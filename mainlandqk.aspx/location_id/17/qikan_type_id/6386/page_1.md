@@ -22,4 +22,25 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=17/page_1.md#1">>河南省</a></strong></h2></p>
 <p align="center"><strong>明慧周报：驻马店版</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/191768.pdf">明慧周报：驻马店版（第二二期）       02/17/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/190509.pdf">明慧周报： 驻马店版（第21期 ）      11/07/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/189550.pdf">明慧周报： 驻马店版（第20期 ）      08/26/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/187533.pdf">明慧周报：驻马店版（第一九期）       03/26/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/187303.pdf">明慧周报：驻马店版（第一八期）       03/08/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/187107.pdf">明慧周报：驻马店版（第一七期）       02/21/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/185769.pdf">明慧周报：驻马店版（第一六期）       11/18/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/185636.pdf">明慧周报：驻马店版（第一五期）       11/10/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/185199.pdf">明慧周报：驻马店版（第一四期）       10/08/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/184728.pdf">明慧周报：驻马店版（第一三期）       09/09/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/184533.pdf">明慧周报：驻马店版（第一二期）       08/29/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/184034.pdf">明慧周报：驻马店版（第一一期）       07/31/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/183902.pdf">明慧周报：驻马店版（第十期）      07/23/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/183268.pdf">明慧周报：驻马店版（第九期）       06/13/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/113041.pdf">明慧周报 河南驻马店版（第八期）       06/11/2012</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/117538.pdf">明慧周报：河南驻马店版（第七期）       12/02/2011</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/117707.pdf">明慧周报：河南驻马店版（第六期）       11/25/2011</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/122710.pdf">明慧周报：驻马店版（第五期）       03/30/2011</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/124248.pdf">明慧周报：驻马店版（第四期）       01/07/2011</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/125920.pdf">明慧周报：驻马店版（第三期）       10/04/2010</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/131965.pdf">明慧周报：驻马店版（第一期）       12/08/2009</a></strong></p>
 
