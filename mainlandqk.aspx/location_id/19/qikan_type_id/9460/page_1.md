@@ -22,4 +22,44 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=19/page_1.md#1">>湖南省</a></strong></h2></p>
 <p align="center"><strong>明慧周报：衡阳版</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/204441.pdf">明慧周报：衡阳版  （第八五期）       11/01/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/203457.pdf">明慧周报：衡阳版  （第八四期）       06/27/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/203320.pdf">明慧周报：衡阳版  （第八三期）       06/19/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/203171.pdf">明慧周报：衡阳版  （第八二期）       06/09/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/202865.pdf">明慧周报：衡阳版（第八一期）       05/18/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/202777.pdf">明慧周报：衡阳版  （第八零期）       05/11/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/202355.pdf">明慧周报：衡阳版  （第七九期）       04/10/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/202200.pdf">明慧周报：衡阳版  （第七八期）       03/30/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/201506.pdf">明慧周报：衡阳版  （第七七期）       02/08/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/201396.pdf">明慧周报：衡阳版（第七六期）       02/01/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/201276.pdf">明慧周报：衡阳版（第七五期）       01/24/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/201187.pdf">明慧周报：衡阳版  （第七四期）       01/19/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/201071.pdf">明慧周报：衡阳版 （第七三期）       01/11/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/200943.pdf">明慧周报：衡阳版  （第七二期）       01/03/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/132628.pdf">明慧周报：衡阳版（第七零期）       11/12/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/133441.pdf">明慧周报  衡阳版（第六九期）       10/16/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/134089.pdf">明慧周报：衡阳版（第六八期）       09/18/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/134311.pdf">明慧周报  衡阳版（第六七期）       09/11/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/134778.pdf">明慧周报：衡阳版（第六六期）       08/24/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/139042.pdf">明慧周报：衡阳版（第六五期）       03/13/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/142415.pdf">明慧周报　衡阳版（第六四期）       09/18/2008</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/144214.pdf">明慧周报　衡阳版（第六三期）       06/17/2008</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/145307.pdf">明慧周报　衡阳版（第六二期）       04/16/2008</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/151017.pdf">明慧周报 湖南衡阳版（第六一期）       12/01/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/151042.pdf">明慧周报 湖南衡阳版（第六二期）       11/28/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/151166.pdf">明慧周报 湖南衡阳版（第六一期）       11/11/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/151209.pdf">明慧周报 湖南衡阳版（第六零期）       11/05/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/151292.pdf">明慧周报 湖南衡阳版（第五九期）       10/27/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/151331.pdf">明慧周报 湖南衡阳版（第五八期）       10/21/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/151406.pdf">明慧周报 湖南衡阳版（第五七期）       10/14/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/151464.pdf">明慧周报 湖南衡阳（第五六期）       10/07/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/151545.pdf">明慧周报 湖南衡阳版（第五五期）       09/28/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/151713.pdf">明慧周报 湖南衡阳版（第五三期）       09/08/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/151777.pdf">明慧周报 湖南衡阳版（第五二期）       09/01/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/151859.pdf">明慧周报 湖南衡阳版（第五一期）       08/23/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/151941.pdf">明慧周报 湖南衡阳版（第五零期）       08/15/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/152024.pdf">明慧周报　衡阳版（第四九期）       08/06/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/152150.pdf">明慧周报 湖南衡阳版（第四八期）       07/21/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/152203.pdf">明慧周报 湖南衡阳版（第四七期）       07/18/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/152450.pdf">明慧周报 湖南衡阳版（第四六期）       06/30/2006</a></strong></p>
 
