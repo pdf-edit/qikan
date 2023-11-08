@@ -22,4 +22,44 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=16/page_1.md#1">>山东省</a></strong></h2></p>
 <p align="center"><strong>明慧周报：德州版</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210571.pdf">明慧周报：德州版（第五一三期）       10/21/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210532.pdf">明慧周报：德州版（第五一二期）       10/15/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210294.pdf">明慧周报：德州版（第五一一期）       09/17/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209390.pdf">明慧周报：德州版（第五一零期）       06/17/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208766.pdf">明慧周报：德州版（第五零九期）       04/09/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208599.pdf">明慧周报：德州版（第五零八期）       03/25/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208247.pdf">明慧周报：德州版（第五零七期）       02/13/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/207811.pdf">明慧周报：德州版（第五零六期）       12/26/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/207194.pdf">明慧周报：德州版（第五零五期）       10/22/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/207131.pdf">明慧周报：德州版（第五零四期）       10/15/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206958.pdf">明慧周报：德州版（第五零三期）       09/24/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206566.pdf">明慧周报：德州版（第五零二期）       08/06/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206235.pdf">明慧周报：德州版（第五零一期）       06/26/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/205802.pdf">明慧周报：德州版（第五零零期）       04/30/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/205473.pdf">明慧周报：德州版（第四九九期）       03/19/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/205370.pdf">明慧周报：德州版（第四九八期）       03/05/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/205317.pdf">明慧周报：德州版（第四九七期）       02/26/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/204978.pdf">明慧周报：德州版（第四九六期）       01/08/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/204796.pdf">明慧周报：德州版（第四九五期）       12/18/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/204636.pdf">明慧周报：德州版（第四九四期）       11/27/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/204580.pdf">明慧周报：德州版（第四九三期）       11/20/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/204526.pdf">明慧周报：德州版（第四九二期）       11/13/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/204425.pdf">明慧周报：德州版（第四九一期）       10/30/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/204367.pdf">明慧周报：德州版（第四九零期）       10/23/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/204273.pdf">明慧周报：德州版（第四八九期）       10/09/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/204189.pdf">明慧周报：德州版（第四八八期）       09/26/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/204086.pdf">明慧周报：德州版（第四八七期）       09/18/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/203889.pdf">明慧周报：德州版（第四八六期）       08/21/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/203810.pdf">明慧周报：德州版（第四八五期）       08/08/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/203528.pdf">明慧周报：德州版（第四八四期）       07/03/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/203430.pdf">明慧周报：德州版（第四八三期）       06/26/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/203331.pdf">明慧周报：德州版（第四八二期）       06/19/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/203224.pdf">明慧周报：德州版（第四八一期）       06/12/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/203036.pdf">明慧周报：德州版（第四八零期）       05/29/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/202825.pdf">明慧周报：德州版（第四七九期）       05/15/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/202734.pdf">明慧周报：德州版（第四七八期）       05/08/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/202552.pdf">明慧周报：德州版（第四七七期）       04/24/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/202453.pdf">明慧周报：德州版（第四七六期）       04/17/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/202365.pdf">明慧周报：德州版（第四七五期）       04/10/2021</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/202257.pdf">明慧周报：德州版（第四七四期）       04/03/2021</a></strong></p>
 
