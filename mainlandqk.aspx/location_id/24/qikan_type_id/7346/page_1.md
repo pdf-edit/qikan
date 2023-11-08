@@ -22,4 +22,36 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=24/page_1.md#1">>四川省</a></strong></h2></p>
 <p align="center"><strong>明慧周报：乐山版</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/164606.pdf">明慧周报：乐山版（第40期）      02/26/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/161811.pdf">明慧周报：乐山版（第39期）      08/25/2013</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/131357.pdf">明慧周报：乐山版（第三七期）       12/30/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/131579.pdf">明慧周报：乐山版（第三六期）       12/23/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/131879.pdf">明慧周报：乐山版（第三四期）       12/11/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/132295.pdf">明慧周报：乐山版（第三二期）       11/25/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/132649.pdf">明慧周报：乐山版（第三零期）       11/11/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/132892.pdf">明慧周报：乐山版（第二九期）       11/04/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/133095.pdf">明慧周报：乐山版（第二八期）       10/28/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/133249.pdf">明慧周报：乐山版（第二七期）       10/22/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/133623.pdf">明慧周报：乐山版（第二五期）       10/11/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/134165.pdf">明慧周报  乐山版（第二二期）       09/16/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/134377.pdf">明慧周报：乐山版（第二一期）       09/09/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/134566.pdf">明慧周报：乐山版（第二零期）       09/02/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/134695.pdf">明慧周报：乐山版（第一九期）       08/27/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/134845.pdf">明慧周报  乐山版（第一八期）       08/21/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/135044.pdf">明慧周报  乐山版（第一七期）       08/14/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/135415.pdf">明慧周报：乐山版（第一五期）       07/28/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/135572.pdf">明慧周报  乐山版（第一四期）       07/22/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/135785.pdf">明慧周报：乐山版（第一三期）       07/16/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/136050.pdf">明慧周报：乐山版（第一二期）       07/07/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/136222.pdf">明慧周报：乐山版（第一一期）       06/30/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/136371.pdf">明慧周报：乐山版（第一零期）       06/24/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/136578.pdf">明慧周报：乐山版（第九期）       06/17/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/136767.pdf">明慧周报：乐山版（第八期）       06/10/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/136982.pdf">明慧周报：乐山版（第七期）       06/02/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/137091.pdf">明慧周报：乐山版（第六期）       05/28/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/137333.pdf">明慧周报：乐山版（第五期）       05/19/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/137492.pdf">明慧周报：乐山版（第四期）       05/13/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/137720.pdf">明慧周报：乐山版（第三期）       05/06/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/137995.pdf">明慧周报：乐山版（第二期）       04/23/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/153907.pdf">明慧周报 乐山版（第一期）       11/27/2005</a></strong></p>
 
