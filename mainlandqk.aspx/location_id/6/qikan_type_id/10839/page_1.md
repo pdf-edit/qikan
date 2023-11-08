@@ -22,4 +22,22 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=6/page_1.md#1">>内蒙古自治区</a></strong></h2></p>
 <p align="center"><strong>真相传单：赤峰特刊</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/187835.pdf">真相传单：赤峰特刊（2018年4月18日）      04/18/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/187554.pdf">真相传单：赤峰特刊（2018年3月28日）      03/28/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/186374.pdf">真相传单：赤峰特刊（2017年12月27日）      12/27/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/186254.pdf">真相传单：赤峰特刊（2017年12月18日）      12/18/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/185791.pdf">真相传单：赤峰特刊（2017年11月19日）      11/19/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/185000.pdf">真相传单：赤峰特刊（2017年9月26日）      09/26/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/183974.pdf">真相传单：赤峰特刊（2017年7月29日）      07/29/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/183463.pdf">真相传单：赤峰特刊（2017年6月26日）      06/26/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/182583.pdf">真相传单：赤峰特刊（2017年5月2日）      05/02/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/176040.pdf">真相传单：赤峰特刊（2016年3月9日）      03/09/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/174971.pdf">真相传单：赤峰特刊（2015年12月29日）      12/29/2015</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/173647.pdf">真相传单：赤峰特刊（2015年10月12日）      10/12/2015</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/172459.pdf">真相传单：赤峰特刊（2015年7月28日）      07/28/2015</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/168001.pdf">真相传单：赤峰特刊（2014年10月1日）      10/01/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/167796.pdf">真相传单：赤峰特刊（2014年9月17日）      09/17/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/163681.pdf">真相传单：赤峰特刊（2013年12月24日）      12/24/2013</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/159940.pdf">真相传单：信仰无罪 停止迫害 赤峰特刊（第一八期）       05/30/2013</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/160318.pdf">真相传单：信仰无罪 停止迫害 赤峰特刊（第一五期）       05/13/2013</a></strong></p>
 
