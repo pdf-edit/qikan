@@ -22,4 +22,44 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=17/page_1.md#1">>河南省</a></strong></h2></p>
 <p align="center"><strong>明慧周报：洛阳版</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210238.pdf">明慧周报：洛阳版（第四七期）       09/11/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209694.pdf">明慧周报：洛阳版（第四六期）       07/22/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209563.pdf">明慧周报：洛阳版（第四五期）       07/08/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209228.pdf">明慧周报：洛阳版（第四四期）       05/29/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209015.pdf">明慧周报：洛阳版（第四三期）       05/06/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208969.pdf">明慧周报：洛阳版（第四二期）       04/30/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206572.pdf">明慧周报：洛阳版（第四一期）       08/07/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/198946.pdf">明慧周报：洛阳版（第四零期）       08/20/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/198735.pdf">明慧周报：洛阳版（第三九期）       08/07/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/198533.pdf">明慧周报：洛阳版（第三八期）       07/25/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/189861.pdf">明慧周报：洛阳版（第三七期）       09/20/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/189576.pdf">明慧周报：洛阳版（第三六期）       08/29/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/189015.pdf">明慧周报：洛阳版（第三五期）       07/17/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/188068.pdf">明慧周报：洛阳版（第三四期）       05/06/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/187661.pdf">明慧周报：洛阳版（第三三期）       04/06/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/187522.pdf">明慧周报：洛阳版（第三二期）       03/26/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/186263.pdf">明慧周报：洛阳版（第三一期）       12/20/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/185860.pdf">明慧周报：洛阳版（第三零期）       11/25/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/182958.pdf">明慧周报：洛阳版（第二九期）       05/25/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/181054.pdf">明慧周报：洛阳版（第二八期）       01/21/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/180058.pdf">明慧周报：洛阳版（第二七期）       11/17/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/172918.pdf">明慧周报：洛阳版（第二六期）       08/26/2015</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/172804.pdf">明慧周报：洛阳版（第二五期）       08/19/2015</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/169801.pdf">明慧周报：洛阳版（第二四期）       01/24/2015</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/167812.pdf">明慧周报：洛阳版（第二三期）       09/18/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/167035.pdf">明慧周报：洛阳版（第二二期）       07/30/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/166682.pdf">明慧周报：洛阳版（第二一期）       07/08/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/166046.pdf">明慧周报：洛阳版（第20期）      05/29/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/165822.pdf">明慧周报：洛阳版（第19期）      05/16/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/165275.pdf">明慧周报：洛阳版（第18期）      04/10/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/165069.pdf">明慧周报：洛阳版（第17期）      03/26/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/164943.pdf">明慧周报：洛阳版（第16期）      03/18/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/164718.pdf">明慧周报：洛阳版（第15期）      03/05/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/164161.pdf">明慧周报：洛阳版（第14期）      01/25/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/163801.pdf">明慧周报：洛阳版（第13期）      01/02/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/163247.pdf">明慧周报：洛阳版（第12期）      11/28/2013</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/162911.pdf">明慧周报：洛阳版（第11期）      11/07/2013</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/161844.pdf">明慧周报：洛阳版（第10期）      08/28/2013</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/161075.pdf">明慧周报：洛阳版（第九期）       07/11/2013</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/129785.pdf">明慧周报：洛阳春晓（第二期）       03/12/2010</a></strong></p>
 
