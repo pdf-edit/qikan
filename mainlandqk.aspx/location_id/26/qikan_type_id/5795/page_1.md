@@ -22,4 +22,44 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=26/page_1.md#1">>云南省</a></strong></h2></p>
 <p align="center"><strong>明慧周报：云南版</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210719.pdf">明慧周报：云南版（第六五一期）       11/05/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210627.pdf">明慧周报：云南版（第六五零期）       10/28/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210551.pdf">明慧周报：云南版（第六四九期）       10/21/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210490.pdf">明慧周报：云南版（第六四八期）       10/14/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210436.pdf">明慧周报：云南版（第六四七期）       10/07/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210386.pdf">明慧周报：云南版（第六四六期）       09/30/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210346.pdf">明慧周报：云南版（第六四五期） ( 2023年9月24日更新）      09/24/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210251.pdf">明慧周报：云南版（第六四四期）       09/16/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210180.pdf">明慧周报：云南版（第六四三期）       09/09/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210118.pdf">明慧周报：云南版（第六四二期）       09/02/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210087.pdf">明慧周报：云南版（第六四一期）       08/27/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210003.pdf">明慧周报：云南版（第六四零期）       08/19/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209903.pdf">明慧周报：云南版（第六三九期）       08/12/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209830.pdf">明慧周报：云南版（第六三八期）       08/05/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209753.pdf">明慧周报：云南版（第六三七期）       07/29/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209713.pdf">明慧周报：云南版（第六三六期）       07/23/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209643.pdf">明慧周报：云南版（第六三五期）       07/16/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209577.pdf">明慧周报：云南版（第六三四期）       07/08/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209494.pdf">明慧周报：云南版（第六三三期）       07/01/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209457.pdf">明慧周报：云南版（第六三二期）       06/24/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209398.pdf">明慧周报：云南版（第六三一期）       06/17/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209315.pdf">明慧周报：云南版（第六三零期）       06/10/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209243.pdf">明慧周报：云南版（第六二九期）       06/03/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209176.pdf">明慧周报：云南版（第六二八期）       05/27/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209148.pdf">明慧周报：云南版（第六二七期）       05/21/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209067.pdf">明慧周报：云南版（第六二六期）       05/13/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208999.pdf">明慧周报：云南版（第六二五期）       05/06/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208927.pdf">明慧周报：云南版（第六二四期）       04/29/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208852.pdf">明慧周报：云南版（第六二三期）       04/22/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208782.pdf">明慧周报：云南版（第六二二期）       04/15/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208714.pdf">明慧周报：云南版（第六二一期）       04/08/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208643.pdf">明慧周报：云南版（第六二零期）       04/01/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208571.pdf">明慧周报：云南版（第六一九期）       03/25/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208504.pdf">明慧周报：云南版（第六一八期）       03/18/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208433.pdf">明慧周报：云南版（第六一七期）       03/11/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208376.pdf">明慧周报：云南版（第六一六期）       03/04/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208313.pdf">明慧周报：云南版（第六一五期）       02/25/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208254.pdf">明慧周报：云南版（第六一四期）       02/18/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208225.pdf">明慧周报：云南版（第六一三期）       02/12/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/208163.pdf">明慧周报：云南版（第六一二期）       02/06/2023</a></strong></p>
 
