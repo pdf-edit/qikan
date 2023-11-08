@@ -22,13 +22,13 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong>按地区寻找</strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=28/page_1.md#1">>陕西省</a></strong></h2></p>
 <p align="center"><strong></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=28&qikan_type_id=6551&page=1/page_1.md#1">明慧周报：宝鸡版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=28&qikan_type_id=7771&page=1/page_1.md#1">明慧周报：汉中版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=28&qikan_type_id=6061&page=1/page_1.md#1">明慧周报：陕西版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=28&qikan_type_id=7674&page=1/page_1.md#1">明慧周报：西安版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=28&qikan_type_id=9650&page=1/page_1.md#1">明慧周报：咸阳版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=28&qikan_type_id=11077&page=1/page_1.md#1">明慧周报：延安版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=28&qikan_type_id=11153&page=1/page_1.md#1">真相传单：陕西特刊</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=28&qikan_type_id=10798&page=1/page_1.md#1">真相传单：陕西真相</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=28&qikan_type_id=10799&page=1/page_1.md#1">真相传单：西安真相</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/28/qikan_type_id/6551/page_1.md#1">明慧周报：宝鸡版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/28/qikan_type_id/7771/page_1.md#1">明慧周报：汉中版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/28/qikan_type_id/6061/page_1.md#1">明慧周报：陕西版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/28/qikan_type_id/7674/page_1.md#1">明慧周报：西安版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/28/qikan_type_id/9650/page_1.md#1">明慧周报：咸阳版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/28/qikan_type_id/11077/page_1.md#1">明慧周报：延安版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/28/qikan_type_id/11153/page_1.md#1">真相传单：陕西特刊</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/28/qikan_type_id/10798/page_1.md#1">真相传单：陕西真相</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/28/qikan_type_id/10799/page_1.md#1">真相传单：西安真相</a></strong></p>
 
