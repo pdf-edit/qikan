@@ -22,4 +22,23 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=8/page_1.md#1">>吉林省</a></strong></h2></p>
 <p align="center"><strong>真相传单：吉林市特刊</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/193864.pdf">真相传单：吉林市特刊（2019年8月3日）      08/03/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/190660.pdf">真相传单：吉林市特刊（2018年11月16日）      11/17/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/190167.pdf">真相传单：吉林市特刊   （2018年10月14日）      10/14/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/189214.pdf">真相传单：吉林市特刊     （2018年8月3日）      08/03/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/188269.pdf">真相传单：吉林市特刊（2018年5月22日）      05/22/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/187982.pdf">真相传单：吉林市特刊（2018年4月30日）      04/30/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/187698.pdf">真相传单：吉林市特刊（2018年4月7日）      04/08/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/186567.pdf">真相传单：吉林市特刊（2018年1月10日）      01/10/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/183951.pdf">真相传单：吉林市特刊（2017年7月27日）      07/27/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/181803.pdf">真相传单：吉林市特刊（2017年3月12日）      03/12/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/180776.pdf">真相传单：吉林市特刊（2017年1月3日）      01/03/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/179049.pdf">真相传单：吉林市特刊（2016年9月17日）      09/17/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/178862.pdf">真相传单：吉林市特刊（2016年9月5日）      09/05/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/178441.pdf">真相传单：吉林市特刊（2016年8月10日）      08/10/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/178127.pdf">真相传单：吉林市特刊（2016年7月22日）      07/22/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/177954.pdf">真相传单：吉林市特刊（2016年7月10日）      07/10/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/177030.pdf">真相传单：吉林市特刊（2016年5月12日）      05/12/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/176804.pdf">真相传单：吉林市特刊（2016年4月26日）      04/26/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/176641.pdf">真相传单：吉林市特刊（2016年4月15日）      04/16/2016</a></strong></p>
 
