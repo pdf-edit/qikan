@@ -22,4 +22,28 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=8/page_1.md#1">>吉林省</a></strong></h2></p>
 <p align="center"><strong>明慧周报：公主岭版</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/196699.pdf">明慧周报：公主岭版  （第二五期）       03/06/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/194479.pdf">明慧周报：公主岭版（第二四期）       09/18/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/193691.pdf">明慧周报：公主岭版（第二三期）       07/24/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/190680.pdf">明慧周报：公主岭版 （第二二期）       11/19/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/188579.pdf">明慧周报：公主岭版（第二一期）       06/15/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/188333.pdf">明慧周报：公主岭版（第二零期）       05/27/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/187149.pdf">明慧周报：公主岭版（第一九期）       02/24/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/186456.pdf">明慧周报：公主岭版（第一八期）       01/01/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/186109.pdf">明慧周报：公主岭版（第一七期）       12/09/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/185924.pdf">明慧周报：公主岭版（第一六期）       11/27/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/184893.pdf">明慧周报：公主岭版（第一五期）       09/19/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/184291.pdf">明慧周报：公主岭版（第一四期）       08/15/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/132000.pdf">明慧周报：公主岭版（第一三期）       12/07/2009</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/143649.pdf">明慧周报 公主岭版（第一二期）       07/18/2008</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/148374.pdf">明慧周报 公主岭版（第一一期）       08/22/2007</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/152449.pdf">明慧周报 吉林公主岭版（第九期）       06/30/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/152604.pdf">明慧周报 吉林公主岭版（第八期）       06/13/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/152674.pdf">明慧周报 吉林公主岭版（第七期）       06/06/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/152909.pdf">明慧周报 吉林公主岭版（第六期）       05/08/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/153316.pdf">明慧周报 公主岭版（第五期）       03/13/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/153360.pdf">明慧周报 吉林公主岭版（第四期）       03/06/2006</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/153906.pdf">明慧周报 吉林公主岭版（第三期）       11/28/2005</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/154003.pdf">明慧周报 吉林公主岭版（第二期）       11/10/2005</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/154078.pdf">明慧周报 公主岭版（第一期）       10/29/2005</a></strong></p>
 
