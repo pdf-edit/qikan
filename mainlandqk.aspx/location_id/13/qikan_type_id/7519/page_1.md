@@ -22,4 +22,12 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=13/page_1.md#1">>安徽省</a></strong></h2></p>
 <p align="center"><strong>明慧周报：宿州版</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/192823.pdf">明慧周报：宿州版（第八期）      05/14/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/191466.pdf">明慧周报：宿州版（第七期）      01/21/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/189677.pdf">明慧周报：宿州版（第六期）      09/05/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/185866.pdf">明慧周报：宿州版（第五期）      11/25/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/183088.pdf">明慧周报：宿州版（第四期）       06/03/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/182341.pdf">明慧周报：宿州版（第三期）       04/17/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/180894.pdf">明慧周报：宿州版（第二期）       01/09/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/132090.pdf">明慧周报：宿州版（第一期）       12/03/2009</a></strong></p>
 
