@@ -22,4 +22,12 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=8/page_1.md#1">>吉林省</a></strong></h2></p>
 <p align="center"><strong>真相传单：延边特刊</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/191113.pdf">真相传单：延边真相（第三四二期）       12/24/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/177838.pdf">真相传单：延边特刊（2016年7月2日）      07/02/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/176405.pdf">真相传单：延边特刊（2016年3月31日）      03/31/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/166159.pdf">真相传单：延边特刊（2014年6月5日）      06/05/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/164702.pdf">真相传单：延边特刊（2014年3月3日）      03/03/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/163079.pdf">真相传单：延边特刊（2013年11月16日）      11/17/2013</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/162546.pdf">真相传单：延边特刊（2013年10月13日）      10/13/2013</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/162178.pdf">真相传单：延边特刊（2013年9月20日）      09/20/2013</a></strong></p>
 
