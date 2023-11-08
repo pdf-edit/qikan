@@ -22,4 +22,18 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=6/page_1.md#1">>内蒙古自治区</a></strong></h2></p>
 <p align="center"><strong>明慧周报：呼伦贝尔版</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/200878.pdf">明慧周报：呼伦贝尔版  （第一三期）       12/31/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/198354.pdf">明慧周报：呼伦贝尔版  （第一二期）       07/15/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/196624.pdf">明慧周报：呼伦贝尔版（第一一期）       02/28/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/196522.pdf">明慧周报：呼伦贝尔版（第一零期）       02/20/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/196433.pdf">明慧周报：呼伦贝尔版  （第九期）       02/14/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/196287.pdf">明慧周报：呼伦贝尔版（第八期）       02/05/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/195945.pdf">明慧周报：呼伦贝尔版  （第七期）       01/09/2020</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/195827.pdf">明慧周报：呼伦贝尔版（第六期）       12/30/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/195747.pdf">明慧周报：呼伦贝尔版（第五期）       12/23/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/195659.pdf">明慧周报：呼伦贝尔版（第四期）       12/17/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/195563.pdf">明慧周报：呼伦贝尔版（第三期）       12/09/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/195477.pdf">明慧周报：呼伦贝尔版（第二期）       12/03/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/195412.pdf">明慧周报：呼伦贝尔版  （第一期）       11/29/2019</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/152397.pdf">明慧周报 呼伦贝尔版（第一期）       07/04/2006</a></strong></p>
 
