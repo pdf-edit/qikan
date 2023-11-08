@@ -22,17 +22,17 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong>按地区寻找</strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=6/page_1.md#1">>内蒙古自治区</a></strong></h2></p>
 <p align="center"><strong></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=6&qikan_type_id=10508&page=1/page_1.md#1">蒙古文期刊：天明</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=6&qikan_type_id=11146&page=1/page_1.md#1">明慧周报：巴彦淖尔市版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=6&qikan_type_id=9154&page=1/page_1.md#1">明慧周报：包头版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=6&qikan_type_id=5181&page=1/page_1.md#1">明慧周报：赤峰版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=6&qikan_type_id=9184&page=1/page_1.md#1">明慧周报：呼和浩特版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=6&qikan_type_id=9674&page=1/page_1.md#1">明慧周报：呼伦贝尔版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=6&qikan_type_id=6775&page=1/page_1.md#1">明慧周报：内蒙古版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=6&qikan_type_id=8689&page=1/page_1.md#1">明慧周报：通辽版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=6&qikan_type_id=11030&page=1/page_1.md#1">真相传单：包头特刊</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=6&qikan_type_id=10839&page=1/page_1.md#1">真相传单：赤峰特刊</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=6&qikan_type_id=10982&page=1/page_1.md#1">真相传单：内蒙古特刊</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=6&qikan_type_id=5147&page=1/page_1.md#1">真相传单：内蒙古真相</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=6&qikan_type_id=11005&page=1/page_1.md#1">真相传单：通辽特刊</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/6/qikan_type_id/10508/page_1.md#1">蒙古文期刊：天明</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/6/qikan_type_id/11146/page_1.md#1">明慧周报：巴彦淖尔市版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/6/qikan_type_id/9154/page_1.md#1">明慧周报：包头版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/6/qikan_type_id/5181/page_1.md#1">明慧周报：赤峰版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/6/qikan_type_id/9184/page_1.md#1">明慧周报：呼和浩特版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/6/qikan_type_id/9674/page_1.md#1">明慧周报：呼伦贝尔版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/6/qikan_type_id/6775/page_1.md#1">明慧周报：内蒙古版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/6/qikan_type_id/8689/page_1.md#1">明慧周报：通辽版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/6/qikan_type_id/11030/page_1.md#1">真相传单：包头特刊</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/6/qikan_type_id/10839/page_1.md#1">真相传单：赤峰特刊</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/6/qikan_type_id/10982/page_1.md#1">真相传单：内蒙古特刊</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/6/qikan_type_id/5147/page_1.md#1">真相传单：内蒙古真相</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/6/qikan_type_id/11005/page_1.md#1">真相传单：通辽特刊</a></strong></p>
 
