@@ -22,18 +22,18 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong>按地区寻找</strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=29/page_1.md#1">>甘肃省</a></strong></h2></p>
 <p align="center"><strong></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=29&qikan_type_id=5135&page=1/page_1.md#1">明慧周报：白银版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=29&qikan_type_id=5447&page=1/page_1.md#1">明慧周报：甘肃版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=29&qikan_type_id=9572&page=1/page_1.md#1">明慧周报：甘肃庆阳版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=29&qikan_type_id=5923&page=1/page_1.md#1">明慧周报：甘肃武威版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=29&qikan_type_id=10885&page=1/page_1.md#1">明慧周报：会宁版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=29&qikan_type_id=8897&page=1/page_1.md#1">明慧周报：金昌版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=29&qikan_type_id=9761&page=1/page_1.md#1">明慧周报：酒泉版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=29&qikan_type_id=5066&page=1/page_1.md#1">明慧周报：兰州版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=29&qikan_type_id=11096&page=1/page_1.md#1">明慧周报：临夏版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=29&qikan_type_id=11177&page=1/page_1.md#1">明慧周报：庆阳版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=29&qikan_type_id=9523&page=1/page_1.md#1">明慧周报：天水版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=29&qikan_type_id=11126&page=1/page_1.md#1">真相传单：甘肃特刊</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=29&qikan_type_id=10802&page=1/page_1.md#1">真相传单：甘肃真相</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=29&qikan_type_id=10825&page=1/page_1.md#1">真相传单：兰州真相</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/29/qikan_type_id/5135/page_1.md#1">明慧周报：白银版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/29/qikan_type_id/5447/page_1.md#1">明慧周报：甘肃版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/29/qikan_type_id/9572/page_1.md#1">明慧周报：甘肃庆阳版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/29/qikan_type_id/5923/page_1.md#1">明慧周报：甘肃武威版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/29/qikan_type_id/10885/page_1.md#1">明慧周报：会宁版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/29/qikan_type_id/8897/page_1.md#1">明慧周报：金昌版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/29/qikan_type_id/9761/page_1.md#1">明慧周报：酒泉版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/29/qikan_type_id/5066/page_1.md#1">明慧周报：兰州版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/29/qikan_type_id/11096/page_1.md#1">明慧周报：临夏版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/29/qikan_type_id/11177/page_1.md#1">明慧周报：庆阳版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/29/qikan_type_id/9523/page_1.md#1">明慧周报：天水版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/29/qikan_type_id/11126/page_1.md#1">真相传单：甘肃特刊</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/29/qikan_type_id/10802/page_1.md#1">真相传单：甘肃真相</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/29/qikan_type_id/10825/page_1.md#1">真相传单：兰州真相</a></strong></p>
 
