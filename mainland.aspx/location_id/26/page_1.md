@@ -22,11 +22,11 @@
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <h1><strong>按地区寻找</strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=26/page_1.md#1">>云南省</a></strong></h2></p>
 <p align="center"><strong></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=26&qikan_type_id=9118&page=1/page_1.md#1">明慧周报：昆明版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=26&qikan_type_id=7306&page=1/page_1.md#1">明慧周报：玉溪版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=26&qikan_type_id=5795&page=1/page_1.md#1">明慧周报：云南版</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=26&qikan_type_id=11134&page=1/page_1.md#1">真相传单：昆明特刊</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=26&qikan_type_id=10830&page=1/page_1.md#1">真相传单：昆明真相</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=26&qikan_type_id=11001&page=1/page_1.md#1">真相传单：云南特刊</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master//mainlandqk.aspx?location_id=26&qikan_type_id=10831&page=1/page_1.md#1">真相传单：云南真相</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/26/qikan_type_id/9118/page_1.md#1">明慧周报：昆明版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/26/qikan_type_id/7306/page_1.md#1">明慧周报：玉溪版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/26/qikan_type_id/5795/page_1.md#1">明慧周报：云南版</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/26/qikan_type_id/11134/page_1.md#1">真相传单：昆明特刊</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/26/qikan_type_id/10830/page_1.md#1">真相传单：昆明真相</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/26/qikan_type_id/11001/page_1.md#1">真相传单：云南特刊</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainlandqk.aspx/location_id/26/qikan_type_id/10831/page_1.md#1">真相传单：云南真相</a></strong></p>
 
