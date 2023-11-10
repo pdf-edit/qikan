@@ -20,16 +20,16 @@
 不定期：<a href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/qikan_type_id/11185/page_1.md">《慧闻图说》</a>｜<a href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/qikan_type_id/11131/page_1.md">《绝处逢生连环画》</a>｜ <a href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/category_id/6/meijie_id/3/keyword/other/page_1.md">更多　　　　　　　</a> <br>
 <br>
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
-<h1><strong>大陆杂志</strong></h1><p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx?qikan_type_id=5179/page_1.md#1">《明慧周刊》</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx?qikan_type_id=5178/page_1.md#1">《明慧周报》中国版<b>(A4)</b></a></strong></p>
+<h1><strong>大陆杂志</strong></h1><p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/qikan_type_id/5179/page_1.md#1">《明慧周刊》</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/qikan_type_id/5178/page_1.md#1">《明慧周报》中国版<b>(A4)</b></a></strong></p>
 <p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md#1">《明慧周报》大陆地方版<b>(A4)</b></a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx?qikan_type_id=5240/page_1.md#1">《真相》</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx?qikan_type_id=5360&keyword=单张&contain=false/page_1.md#1">《天赐洪福》<b>A5</b>杂志</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx?qikan_type_id=5360&keyword=单张&contain=true/page_1.md#1">《天赐洪福》<b>A4</b>单张</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx?qikan_type_id=7500/page_1.md#1">《金种子》</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx?qikan_type_id=5638/page_1.md#1">《慧声》</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx?qikan_type_id=7268/page_1.md#1">《七彩桥》</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx?qikan_type_id=5140/page_1.md#1">《明白》</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx?qikan_type_id=11131/page_1.md#1">《绝处逢生连环画》</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx?category_id=6&meijie_id=3/page_1.md#1">《明慧挂/台历》</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/qikan_type_id/5240/page_1.md#1">《真相》</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/qikan_type_id/5360/keyword/单张&contain=false/page_1.md#1">《天赐洪福》<b>A5</b>杂志</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/qikan_type_id/5360/keyword/单张&contain=true/page_1.md#1">《天赐洪福》<b>A4</b>单张</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/qikan_type_id/7500/page_1.md#1">《金种子》</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/qikan_type_id/5638/page_1.md#1">《慧声》</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/qikan_type_id/7268/page_1.md#1">《七彩桥》</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/qikan_type_id/5140/page_1.md#1">《明白》</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/qikan_type_id/11131/page_1.md#1">《绝处逢生连环画》</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/category_id/6/meijie_id/3/page_1.md#1">《明慧挂/台历》</a></strong></p>
 
