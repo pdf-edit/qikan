@@ -20,7 +20,31 @@
 不定期：<a href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/qikan_type_id/11185/page_1.md">《慧闻图说》</a>｜<a href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/qikan_type_id/11131/page_1.md">《绝处逢生连环画》</a>｜ <a href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/category_id/6/meijie_id/3/keyword/other/page_1.md">更多　　　　　　　</a> <br>
 <br>
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
-<h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=4/page_1.md#1">>河北省</a></strong></h2></p>
+<h1><strong>按地区寻找</strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=4/page_1.md#1">>河北省</a></strong></h2></p>
+<p align="center"><strong>真相传单：三河特刊</strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/190269.pdf">真相传单：三河特刊（2018年10月20日）      10/20/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/189259.pdf">真相传单：三河特刊（2018年8月5日）      08/05/2018</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/185749.pdf">真相传单：三河特刊（2017年11月17日）      11/17/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/181237.pdf">真相传单：三河特刊（2017年2月2日）      02/03/2017</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/180705.pdf">真相传单：三河特刊（2016年12月29日）      12/29/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/180453.pdf">真相传单：三河特刊（2016年12月12日）      12/12/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/179963.pdf">真相传单：三河特刊（2016年11月11日）      11/11/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/179030.pdf">真相传单：三河特刊（2016年9月15日）      09/15/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/177849.pdf">真相传单：三河特刊（2016年7月4日）      07/04/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/177737.pdf">真相传单：三河特刊（2016年6月26日）      06/26/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/177078.pdf">真相传单：三河特刊（2016年5月15日）      05/15/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/175768.pdf">真相传单：三河特刊（2016年2月20日）      02/20/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/175638.pdf">真相传单：三河特刊（2016年2月11日）      02/11/2016</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/174302.pdf">真相传单：三河特刊（2015年11月18日）      11/18/2015</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/173693.pdf">真相传单：三河特刊（2015年10月15日）      10/15/2015</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/171574.pdf">真相传单：三河特刊（2015年6月2日）      06/02/2015</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/170901.pdf">真相传单：三河特刊（2015年4月15日）      04/15/2015</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/170740.pdf">真相传单：三河特刊（2015年4月3日）      04/03/2015</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/170076.pdf">真相传单：三河特刊（2015年2月12日）      02/12/2015</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/168778.pdf">真相传单：三河特刊（2014年11月18日）      11/18/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/167676.pdf">真相传单：三河特刊（2014年9月9日）      09/09/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/167380.pdf">真相传单：三河特刊（2014年8月20日）      08/20/2014</a></strong></p>
+<p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=4/page_1.md#1">>河北省</a></strong></h2></p>
 <p align="center"><strong>真相传单：迁西特刊</strong></p>
 <p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/192722.pdf">真相传单：迁西特刊（2019年5月5日）      05/05/2019</a></strong></p>
 <p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/192254.pdf">真相传单：迁西特刊（2019年3月30日）      03/31/2019</a></strong></p>
