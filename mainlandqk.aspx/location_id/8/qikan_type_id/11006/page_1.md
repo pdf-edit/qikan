@@ -20,7 +20,7 @@
 不定期：<a href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/qikan_type_id/11185/page_1.md">《慧闻图说》</a>｜<a href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/qikan_type_id/11131/page_1.md">《绝处逢生连环画》</a>｜ <a href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/category_id/6/meijie_id/3/keyword/other/page_1.md">更多　　　　　　　</a> <br>
 <br>
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
-<h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=8/page_1.md#1">>吉林省</a></strong></h2></p>
+<h1><strong>按地区寻找</strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=8/page_1.md#1">>吉林省</a></strong></h2></p>
 <p align="center"><strong>真相传单：四平特刊</strong></p>
 <p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/189014.pdf">真相传单：四平特刊  （2018年7月17日）      07/17/2018</a></strong></p>
 <p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/182383.pdf">真相传单：四平特刊（2017年4月20日）      04/20/2017</a></strong></p>
