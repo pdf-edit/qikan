@@ -20,7 +20,7 @@
 不定期：<a href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/qikan_type_id/11185/page_1.md">《慧闻图说》</a>｜<a href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/qikan_type_id/11131/page_1.md">《绝处逢生连环画》</a>｜ <a href="https://github.com/pdf-edit/qikan/blob/master/display.aspx/category_id/6/meijie_id/3/keyword/other/page_1.md">更多　　　　　　　</a> <br>
 <br>
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
-<h1><strong></strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=9/page_1.md#1">>黑龙江省</a></strong></h2></p>
+<h1><strong>按地区寻找</strong></h1><p align="center"><h2><strong><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx/page_1.md">中国大陆</a><a target="_blank" href="https://github.com/pdf-edit/qikan/blob/master/mainland.aspx?category_id=7&location_id=9/page_1.md#1">>黑龙江省</a></strong></h2></p>
 <p align="center"><strong>真相传单：黑龙江特刊</strong></p>
 <p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/193422.pdf">真相传单：黑龙江特刊（2019年7月6日）      07/06/2019</a></strong></p>
 <p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/193322.pdf">真相传单：黑龙江特刊（2019年6月25日）      06/25/2019</a></strong></p>
